@@ -124,7 +124,7 @@ const translations = {
     'edu-cert-2': 'Air Conditioning Mechanic - 07.2016',
     'edu-cert-3': 'Refrigeration Mechanic - 07.2016',
     'section-languages-title': 'Languages',
-    'lang-italian': 'Italian - Basic',
+    'lang-italian': 'Italian - Good',
     'lang-english': 'English - Good',
     'lang-sinhala': 'Sinhala - Excellent',
     'footer-text': '© 2025 <a href="mailto:k3akalanka@gmail.com" target="_blank">SightseR</a>. Crafted with modern web technologies.',
@@ -253,3 +253,4 @@ if (savedLang === 'en') {
     langTextEnMobile.classList.add('hidden');
 
 }
+
